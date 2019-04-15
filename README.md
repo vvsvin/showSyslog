@@ -4,6 +4,8 @@ Show contents of syslog
 ## version
 Active Workspace 4.1 (in progress)
 
+- In 4.1 logService.js was deprecated, use logger.js
+
 ## build
 - Create a new folder under `stage/src`, called `syslog`.
 
